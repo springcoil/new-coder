@@ -1,7 +1,7 @@
-numpy==1.7.0
+numpy==1.22.2
 matplotlib==1.2.0
 requests==1.1.0
-tablib==0.9.11
+tablib==0.11.4
 Pandas
 SciPy
 statsmodels==0.5.0
